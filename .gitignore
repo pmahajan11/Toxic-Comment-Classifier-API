@@ -1,0 +1,7 @@
+.env
+__pycache__
+venv/
+reqs.txt
+app/ml/glove_dict.pkl
+app/ml/rfc_model.pkl
+app/ml/stopwords.pkl
